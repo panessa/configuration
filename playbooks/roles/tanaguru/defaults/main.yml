@@ -1,6 +1,6 @@
 ---
 tanguru_debian_pkgs:
-  - openjdk-7-jre
+  - openjdk-8-jre
   - unzip
   - libmysql-java
   - python-mysqldb

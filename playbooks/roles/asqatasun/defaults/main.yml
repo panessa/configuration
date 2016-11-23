@@ -24,7 +24,7 @@ ASQATASUN_ADMIN_PASSWORD: 'changeme'
 asqatasun_debian_pkgs:
   - wget
   - bzip2
-  - openjdk-7-jre
+  - openjdk-8-jre
   - unzip
   - mysql-server
   - libmysql-java

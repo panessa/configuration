@@ -72,6 +72,7 @@ cd /var/tmp
 git clone https://github.com/edx/configuration
 cd configuration
 git checkout $CONFIGURATION_VERSION
+git pull
 
 ##
 ## Install the ansible requirements
